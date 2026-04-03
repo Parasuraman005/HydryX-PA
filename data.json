@@ -1,0 +1,38 @@
+{
+  "customers": [],
+  "products": [
+    { "id": 1, "name": "300ml bottle", "rate": 7, "stock": 0 },
+    { "id": 2, "name": "500ml bottle", "rate": 10, "stock": 0 },
+    { "id": 3, "name": "1 litre bottle", "rate": 20, "stock": 0 },
+    { "id": 4, "name": "5 litre bottle", "rate": 70, "stock": 0 },
+    { "id": 5, "name": "10 litre bottle", "rate": 110, "stock": 0 },
+    { "id": 6, "name": "300 ml case (20)pcs", "rate": 165, "stock": 0 },
+    { "id": 7, "name": "500ml case (22)pcs", "rate": 240, "stock": 0 },
+    { "id": 8, "name": "1 litre case (12)pcs", "rate": 216, "stock": 0 }
+  ],
+  "sales": [],
+  "loads": [],
+  "deposits": [],
+  "suppliers": [],
+  "settings": {
+    "company_info": {
+      "name": "V V water supply",
+      "proprietor": "A.venkat",
+      "gstin": "",
+      "phone1": "8667458845",
+      "phone2": "8778585712",
+      "whatsapp": "8667458845",
+      "address": "gems park(opp) near by baba temple mogappair west ch-600 037",
+      "website1": "",
+      "website2": "",
+      "upiId": "nakshathra12.05.17@oksbi",
+      "upiNumber": "8778585712",
+      "holderName": "sowmiya"
+    },
+    "quick_actions": [
+      { "id": "1", "label": "New Entry", "path": "/entry", "icon": "PlusCircle", "color": "blue" },
+      { "id": "3", "label": "Credit Customer", "path": "/customer-hub/credit", "icon": "Users", "color": "emerald" },
+      { "id": "4", "label": "Product Details", "path": "/products", "icon": "Package", "color": "amber" }
+    ]
+  }
+}
